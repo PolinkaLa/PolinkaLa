@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="150"/>
 </div>
+&nbsp;
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/polina-lappo-969523124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,18 +19,23 @@
     <img src="https://img.shields.io/badge/Web--site-blue?style=for-the-badge" alt="Email"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=PolinkaLa&style=flat-square&color=blue" alt=""/> -->
+&nbsp;
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=PolinkaLa&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/Yr0iHieAwgmz2JPUT9/giphy.gif" widht="300px"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" widht="300px"/>
 </div>
 
 
 # :woman_technologist: About me
 I am a Frontend Developer from Saint Petersburg, Russia.
+
+- 📬 How to reach me: [![Email Badge](https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:miss.lappo@yandex.ru)
 
 # :hammer_and_wrench: Languages and Tools
 <div>
