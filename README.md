@@ -71,7 +71,7 @@ I am a Frontend Developer from Saint Petersburg, Russia.
 # :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolinkaLa&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POlinkaLa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinkaLa&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PolinkaLa/PolinkaLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
