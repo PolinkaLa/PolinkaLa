@@ -30,14 +30,26 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" widht="300px"/>
 </div>
-
+<br>
+<br>
 
 # :woman_technologist: About me
 I am a Frontend Developer from Saint Petersburg, Russia.
 
-- 📬 How to reach me: [![Email Badge](https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:miss.lappo@yandex.ru)
+- 🔮 4+ years work as a Software Engineer and contributing to frontend for building web applications.
+
+- 💻 experience in SAP UI5 framework
+
+- 👩‍🎓 learning new technologies
+
+-  🪴 my free time, I grow succulents and weave beads
+
+- 📬 how to reach me: [![Email Badge](https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:miss.lappo@yandex.ru)
+<br>
+<br>
 
 # :hammer_and_wrench: Languages and Tools
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -53,6 +65,8 @@ I am a Frontend Developer from Saint Petersburg, Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
+<br>
+<br>
 
 # :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolinkaLa&theme=dark&background=000000)](https://git.io/streak-stats)
