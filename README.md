@@ -20,9 +20,9 @@
   </a>
 </div>
 &nbsp;
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PolinkaLa&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 <br>
 <br>
 
@@ -62,9 +62,14 @@ I am a Frontend Developer from Saint Petersburg, Russia.
 <br>
 
 # :fire: My Stats
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PolinkaLa&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinkaLa&show_icons=true&theme=vision-friendly-dark)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolinkaLa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinkaLa&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **PolinkaLa/PolinkaLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
