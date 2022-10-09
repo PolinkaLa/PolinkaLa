@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="150"/>
-</div>
-&nbsp;
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/polina-lappo-969523124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
