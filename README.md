@@ -25,7 +25,7 @@
 # :woman_technologist: About me
 I am a Frontend Developer from Saint Petersburg, Russia.
 
-- 🔮 4+ years work as a Software Engineer and contributing to frontend for building web applications.
+- 🔮 5+ years work as a Software Engineer and contributing to frontend for building web applications.
 
 - 💻 experience in SAP UI5 framework
 
